@@ -28,7 +28,7 @@ body {
   background-color: #485563 !important;
 }
 #app {
-  font-family: "Fondamento", cursive;
+  font-family: "Roboto", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #e4e3e3;

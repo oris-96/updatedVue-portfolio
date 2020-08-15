@@ -1,11 +1,7 @@
 <template>
   <b-navbar toggleable type="dark" variant="dark">
     <b-navbar-brand href="#">
-      <img
-        class="logo__img d-inline-block align-top"
-        src="../assets/ibrahim.png"
-        alt="Ibrahim"
-      />
+      <img class="logo__img d-inline-block align-top" src="../assets/ibrahim.png" alt="Ibrahim" />
     </b-navbar-brand>
 
     <b-navbar-toggle target="navbar-toggle-collapse">
