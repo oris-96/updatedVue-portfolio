@@ -1,15 +1,10 @@
 <template>
   <div id="about" class="container">
-    <b-container class="bv-example-row h-100 mt-5 ">
-      <b-row class=" h-100 justify-content-center align-items-center flex">
+    <b-container class="bv-example-row h-100 mt-5">
+      <b-row class="h-100 justify-content-center align-items-center flex">
         <b-col cols="8">
-          <h3 class="header ">
-            About Me
-          </h3>
-          <b-container
-            fluid="sm md lg xl"
-            class="d-flex flex-column justify-content-between p-3"
-          >
+          <h3 class="header">About Me</h3>
+          <b-container fluid="sm md lg xl" class="d-flex flex-column justify-content-between p-3">
             <p>
               i'm Ibrahim, a software Engineer with a passion for problem
               solving, i studied Electrical /Electronics Engineering during my
@@ -32,22 +27,24 @@
                 <ul>
                   <li class="about-tech">Python</li>
                   <li class="about-tech">Javascript/ES5/ES2015</li>
-                  <li class="about-tech">HTML5</li>
+                  <li class="about-tech">HTML</li>
                   <li class="about-tech">CSS</li>
+                  <li class="about-tech">React.js</li>
                 </ul>
               </b-col>
               <b-col sm="auto" md="auto" lg="auto">
                 <ul>
-                  <li class="about-tech">VUEjs</li>
-                  <li class="about-tech">NODEjs</li>
-                  <li class="about-tech">EXPRESS</li>
+                  <li class="about-tech">Vue.js</li>
+
+                  <li class="about-tech">Node.js</li>
+                  <li class="about-tech">Express</li>
                   <li class="about-tech">MongoDB</li>
                 </ul>
               </b-col>
               <b-col sm="auto" md="auto" lg="auto">
                 <ul>
-                  <li class="about-tech">NPM</li>
-                  <li class="about-tech">GIT</li>
+                  <li class="about-tech">npm</li>
+                  <li class="about-tech">Git</li>
                   <li class="about-tech">SASS/SCSS</li>
                   <li class="about-tech">Hyper</li>
                 </ul>

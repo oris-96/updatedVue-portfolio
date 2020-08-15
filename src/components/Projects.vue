@@ -43,6 +43,22 @@
                     </blockquote>
                   </b-card>
 
+                  <b-card header="Video Rental Dashboard">
+                    <blockquote class="blockquote mb-0">
+                      <p>An Interactive Frontend for a video rental app built with React , implemented the ability to perform CRUD operation and also filter according to the respective genres.</p>
+
+                      <div class="d-flex justify-content-between p-2">
+                        <a href="http://offbeat-caption.surge.sh/">
+                          <i class="fas fa-external-link-alt fa-2x"></i>
+                        </a>
+                        <br />
+                        <a href="https://github.com/oris-96/video">
+                          <i class="fa fa-github fa-2x" aria-hidden="true"></i>
+                        </a>
+                      </div>
+                    </blockquote>
+                  </b-card>
+
                   <b-card header="Video Rental Rest API">
                     <blockquote class="blockquote mb-0">
                       <p>A Video Rental API using Node, express and mongoDB that performs CRUD operations. This API also features a User Authentication system using JWT, Each endpoint was tested using Postman</p>
